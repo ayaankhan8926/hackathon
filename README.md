@@ -1,16 +1,21 @@
-# Crisis Resource Allocation 🚨
+# 🚨 Crisis Resource Allocation System
 
-## Overview
-A multi-agent system that simulates resource allocation during crisis situations.
+## 📌 Overview
+A multi-agent system that simulates intelligent resource allocation during crisis situations.
 
-## Features
+## ⚙️ Features
 - Priority-based negotiation
-- Real-time simulation
-- Crisis mode
+- Real-time simulation dashboard
+- Crisis mode activation
+- Dynamic resource allocation
 
-## Tech Stack
+## 🧠 Tech Stack
 - Python (Backend)
-- Streamlit / React (Frontend)
+- Streamlit (UI)
+- React (Frontend)
 
-## How to Run
+## ▶️ How to Run
 streamlit run app.py
+
+## 📊 Demo
+(Add your screenshot here)
